@@ -44,6 +44,16 @@ The dashboard compares actual results against budget, tracks daily performance, 
 ### Data Preparation
 Imported simulated CSV datasets into Power Query, assigned appropriate data types, and validated row counts, missing values, and errors.
 
+### Power Query
+
+Prepared the simulated operational datasets in Power Query before loading them into the Power BI model.
+
+The project uses separate Actuals and Budget fact tables, supported by shared Calendar and Locations dimensions.
+
+The completed PBIX file includes the Power Query steps for technical review.
+
+![Power Query Data Preparation](power-query.png)
+
 ### Data Modeling
 Built a relational model using four tables:
 
