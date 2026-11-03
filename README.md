@@ -54,6 +54,12 @@ Built a relational model using four tables:
 
 Created four active one-to-many relationships connecting the shared Calendar and Locations dimensions to the Actuals and Budget fact tables.
 
+
+### Data Model
+
+![Power BI Relational Data Model](data-model.png)
+
+
 ### DAX
 Developed 14 measures to calculate revenue, budget variances, transaction performance, average check, labor cost, and labor productivity.
 
