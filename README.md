@@ -12,6 +12,16 @@ The dashboard compares actual results against budget, tracks daily performance, 
 **Analysis Period:** October 5 – November 1, 2026  
 **Locations:** 6
 
+
+## Dashboard Preview
+
+![Food and Beverage Performance Dashboard](dashboard-overview.png)
+
+### Key Findings
+
+![Business Performance Key Findings](key-findings.png)
+
+
 ## Business Questions
 
 - Which locations are exceeding or falling short of revenue budgets?
