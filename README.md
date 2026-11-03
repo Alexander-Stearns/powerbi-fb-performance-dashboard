@@ -62,6 +62,7 @@ Created four active one-to-many relationships connecting the shared Calendar and
 
 ### DAX
 Developed 14 measures to calculate revenue, budget variances, transaction performance, average check, labor cost, and labor productivity.
+**[View Selected DAX Measures](DAX_Measures.md)**
 
 ## Key Findings
 
